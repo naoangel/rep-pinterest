@@ -1,0 +1,61 @@
+
+.fa-pinterest{
+	color: #BD081C;
+	height:30px;
+}
+
+.fa-user{
+	color: #BDBDBD;
+}
+.fa-bars{
+	color: #BDBDBD;
+}
+.fa-commenting{
+	color: #BDBDBD;
+
+}
+
+nav{
+	width: 100%;
+	
+}
+
+
+
+.fav{
+	color: red;
+}
+
+.top-menu{
+	outline: 1px solid #EFEFEF;
+    position: relative;
+    float:left;
+    
+}
+.backsearch{
+	height:30px;
+
+	width:60%;
+	background-color: #EFEFEF; 
+
+}
+
+input{
+	height:30px;
+	background-color: transparent;
+    border-style: groove;
+    
+}
+.button{
+	border-radius: 5px;
+    display:inline-block;
+    position: relative;
+    float: left;
+    margin:5px;
+}
+
+
+.imgs {
+	scroll-behavior: scroll;
+	
+}
